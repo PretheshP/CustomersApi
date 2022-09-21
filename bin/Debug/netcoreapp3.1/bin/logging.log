@@ -1,0 +1,760 @@
+INFO  03:44:57 Application started. Press Ctrl+C to shut down.
+INFO  03:44:57 Application started. Press Ctrl+C to shut down.
+INFO  03:44:57 Hosting environment: Development
+INFO  03:44:57 Hosting environment: Development
+INFO  03:44:57 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:44:57 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:45:17 Customer details has been successfully recieved.
+INFO  03:45:17 Customer details  has been successfully retrieved
+INFO  03:45:17 Customer's Details has been successfully returned
+INFO  03:46:44 Application started. Press Ctrl+C to shut down.
+INFO  03:46:44 Application started. Press Ctrl+C to shut down.
+INFO  03:46:44 Hosting environment: Development
+INFO  03:46:44 Hosting environment: Development
+INFO  03:46:44 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:46:44 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:46:55 Customer details has been successfully recieved.
+INFO  03:46:55 Customer details  has been successfully retrieved
+INFO  03:52:34 Application started. Press Ctrl+C to shut down.
+INFO  03:52:34 Application started. Press Ctrl+C to shut down.
+INFO  03:52:34 Hosting environment: Development
+INFO  03:52:34 Hosting environment: Development
+INFO  03:52:34 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:52:34 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:52:45 Customer details has been successfully recieved.
+INFO  03:52:45 Customer details  has been successfully retrieved
+ERROR 03:52:45 No record found for the user Id :3
+INFO  06:14:30 Application started. Press Ctrl+C to shut down.
+INFO  06:14:30 Application started. Press Ctrl+C to shut down.
+INFO  06:14:30 Hosting environment: Development
+INFO  06:14:30 Hosting environment: Development
+INFO  06:14:30 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:14:30 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:15:09 Get Api Initiated
+INFO  06:15:09 Customer details is finally recieved.
+INFO  06:17:32 Customer details  has been successfully retrieved
+WARN  06:17:54 User already exist with Id :2
+INFO  06:49:23 Application started. Press Ctrl+C to shut down.
+INFO  06:49:23 Application started. Press Ctrl+C to shut down.
+INFO  06:49:23 Hosting environment: Development
+INFO  06:49:23 Hosting environment: Development
+INFO  06:49:23 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:49:23 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:50:12 Get Api Initiated
+INFO  06:50:12 Customer details is finally recieved.
+INFO  06:51:01 Customer details  has been successfully retrieved
+INFO  06:51:01 Customer details has been successfully entered.
+INFO  06:51:01 Customer Id has been successfully created
+ERROR 06:51:03 Error occurred while calling post methodOne or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  06:51:41 Customer details  has been successfully retrieved
+INFO  06:51:41 Customer details has been successfully entered.
+INFO  06:51:41 Customer Id has been successfully created
+ERROR 06:51:43 Error occurred while calling post methodOne or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  06:51:48 Get Api Initiated
+INFO  06:51:48 Customer details is finally recieved.
+INFO  06:53:31 Application started. Press Ctrl+C to shut down.
+INFO  06:53:31 Application started. Press Ctrl+C to shut down.
+INFO  06:53:31 Hosting environment: Development
+INFO  06:53:31 Hosting environment: Development
+INFO  06:53:31 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:53:31 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:54:29 Get Api Initiated
+INFO  06:54:29 Customer details is finally recieved.
+INFO  06:55:33 Customer details  has been successfully retrieved
+INFO  06:55:43 Customer details has been successfully entered.
+INFO  06:55:46 Customer Id has been successfully created
+ERROR 06:59:46 Error occurred while calling post methodOne or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  07:00:35 Get Api Initiated
+INFO  07:00:35 Customer details is finally recieved.
+INFO  07:00:56 Get Api Initiated
+INFO  07:00:56 Customer details is finally recieved.
+INFO  07:02:04 Customer details  has been successfully retrieved
+INFO  07:02:04 Customer details has been successfully entered.
+INFO  07:02:04 Customer Id has been successfully created
+INFO  07:02:08 Customer has been successfully created
+INFO  07:02:16 Get Api Initiated
+INFO  07:02:16 Customer details is finally recieved.
+INFO  07:06:52 Get Api Initiated
+INFO  07:06:52 Customer details is finally recieved.
+INFO  07:35:40 Application started. Press Ctrl+C to shut down.
+INFO  07:35:40 Application started. Press Ctrl+C to shut down.
+INFO  07:35:40 Hosting environment: Development
+INFO  07:35:40 Hosting environment: Development
+INFO  07:35:40 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  07:35:40 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  09:27:58 Get Api Initiated
+INFO  09:27:58 Customer details is finally recieved.
+INFO  09:28:21 Get Api Initiated
+INFO  09:28:21 Customer details is finally recieved.
+INFO  09:28:40 Get Api Initiated
+INFO  09:28:40 Customer details is finally recieved.
+INFO  09:28:47 Get Api Initiated
+INFO  09:28:47 Customer details is finally recieved.
+INFO  09:28:54 Get Api Initiated
+INFO  09:28:54 Customer details is finally recieved.
+INFO  09:28:56 Customer details has been successfully recieved.
+INFO  09:28:56 Customer details  has been successfully retrieved
+INFO  09:28:56 Customer's Details has been successfully returned
+INFO  09:29:03 Get Api Initiated
+INFO  09:29:03 Customer details is finally recieved.
+INFO  09:29:39 Customer details  has been successfully retrieved
+INFO  09:29:39 Customer details has been successfully entered.
+INFO  09:29:39 Customer Id has been successfully created
+ERROR 09:29:42 Error occurred while calling post methodOne or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  09:29:51 Get Api Initiated
+INFO  09:29:51 Customer details is finally recieved.
+INFO  09:30:05 Customer details has been successfully recieved.
+INFO  09:30:05 Customer details  has been successfully retrieved
+INFO  09:30:05 Customer's Details has been successfully returned
+INFO  09:30:08 Get Api Initiated
+INFO  09:30:08 Customer details is finally recieved.
+INFO  09:30:17 Get Api Initiated
+INFO  09:30:17 Customer details is finally recieved.
+INFO  09:30:24 Get Api Initiated
+INFO  09:30:24 Customer details is finally recieved.
+INFO  09:51:43 Application started. Press Ctrl+C to shut down.
+INFO  09:51:43 Application started. Press Ctrl+C to shut down.
+INFO  09:51:43 Hosting environment: Development
+INFO  09:51:43 Hosting environment: Development
+INFO  09:51:43 Content root path: E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi
+INFO  09:51:43 Content root path: E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi
+INFO  09:54:36 Get Api Initiated
+INFO  09:54:36 Customer details is finally recieved.
+INFO  09:55:41 Customer details  has been successfully retrieved
+INFO  09:55:41 Customer details has been successfully entered.
+INFO  09:55:41 Customer Id has been successfully created
+INFO  09:55:44 Customer has been successfully created
+INFO  09:55:48 Get Api Initiated
+INFO  09:55:48 Customer details is finally recieved.
+INFO  09:56:13 Get Api Initiated
+INFO  09:56:13 Customer details is finally recieved.
+INFO  09:56:46 Get Api Initiated
+INFO  09:56:46 Customer details is finally recieved.
+INFO  09:58:13 Get Api Initiated
+INFO  09:58:13 Customer details is finally recieved.
+INFO  09:58:20 Get Api Initiated
+INFO  09:58:20 Customer details is finally recieved.
+INFO  09:58:31 Get Api Initiated
+INFO  09:58:31 Customer details is finally recieved.
+INFO  09:59:55 Get Api Initiated
+INFO  09:59:55 Customer details is finally recieved.
+INFO  10:00:34 Get Api Initiated
+INFO  10:00:34 Customer details is finally recieved.
+INFO  10:00:54 Get Api Initiated
+INFO  10:00:54 Customer details is finally recieved.
+INFO  10:01:16 Get Api Initiated
+INFO  10:01:16 Customer details is finally recieved.
+INFO  10:02:03 Get Api Initiated
+INFO  10:02:03 Customer details is finally recieved.
+INFO  10:02:13 Get Api Initiated
+INFO  10:02:13 Customer details is finally recieved.
+INFO  10:03:38 Customer details  has been successfully retrieved
+WARN  10:03:38 User already exist with Id :3
+INFO  10:04:19 Get Api Initiated
+INFO  10:04:19 Customer details is finally recieved.
+INFO  10:07:08 Get Api Initiated
+INFO  10:07:08 Customer details is finally recieved.
+INFO  10:07:15 Customer details has been successfully recieved.
+INFO  10:07:15 Customer details  has been successfully retrieved
+INFO  10:07:15 Customer's Details has been successfully returned
+INFO  10:07:36 Get Api Initiated
+INFO  10:07:36 Customer details is finally recieved.
+FATAL 05:34:19 Unable to start Kestrel.
+System.IO.IOException: Failed to bind to address https://127.0.0.1:5001: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.<>c__DisplayClass21_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+FATAL 05:34:19 Unable to start Kestrel.
+System.IO.IOException: Failed to bind to address https://127.0.0.1:5001: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.<>c__DisplayClass21_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+INFO  05:35:12 Now listening on: https://localhost:5002
+INFO  05:35:12 Now listening on: https://localhost:5002
+INFO  05:35:12 Now listening on: http://localhost:5003
+INFO  05:35:12 Now listening on: http://localhost:5003
+INFO  05:35:12 Application started. Press Ctrl+C to shut down.
+INFO  05:35:12 Application started. Press Ctrl+C to shut down.
+INFO  05:35:12 Hosting environment: Development
+INFO  05:35:12 Hosting environment: Development
+INFO  05:35:12 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  05:35:12 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  05:47:21 Application is shutting down...
+INFO  05:47:21 Application is shutting down...
+INFO  05:47:33 Now listening on: https://localhost:5002
+INFO  05:47:33 Now listening on: https://localhost:5002
+INFO  05:47:33 Now listening on: http://localhost:5003
+INFO  05:47:33 Now listening on: http://localhost:5003
+INFO  05:47:33 Application started. Press Ctrl+C to shut down.
+INFO  05:47:33 Application started. Press Ctrl+C to shut down.
+INFO  05:47:33 Hosting environment: Development
+INFO  05:47:33 Hosting environment: Development
+INFO  05:47:33 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  05:47:33 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  05:52:29 Customer details  has been successfully retrieved
+INFO  05:52:29 Customer details has been successfully entered.
+INFO  05:52:29 Customer Id has been successfully created
+INFO  05:52:30 Customer has been successfully created
+INFO  05:52:47 Customer details has been successfully recieved.
+INFO  05:52:47 Customer details  has been successfully retrieved
+INFO  05:52:47 Customer's Details has been successfully returned
+INFO  05:52:58 Get Api Initiated
+INFO  05:52:58 Customer details is finally recieved.
+INFO  09:02:00 Now listening on: https://localhost:5002
+INFO  09:02:00 Now listening on: https://localhost:5002
+INFO  09:02:00 Now listening on: http://localhost:5003
+INFO  09:02:00 Now listening on: http://localhost:5003
+INFO  09:02:00 Application started. Press Ctrl+C to shut down.
+INFO  09:02:00 Application started. Press Ctrl+C to shut down.
+INFO  09:02:00 Hosting environment: Development
+INFO  09:02:00 Hosting environment: Development
+INFO  09:02:00 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  09:02:00 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  08:06:50 Now listening on: https://localhost:5002
+INFO  08:06:50 Now listening on: https://localhost:5002
+INFO  08:06:50 Now listening on: http://localhost:5003
+INFO  08:06:50 Now listening on: http://localhost:5003
+INFO  08:06:50 Application started. Press Ctrl+C to shut down.
+INFO  08:06:50 Application started. Press Ctrl+C to shut down.
+INFO  08:06:50 Hosting environment: Development
+INFO  08:06:50 Hosting environment: Development
+INFO  08:06:50 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  08:06:50 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  08:15:34 Customer details has been successfully recieved.
+INFO  08:15:34 Customer details  has been successfully retrieved
+INFO  08:15:34 Customer's Details has been successfully returned
+INFO  10:18:17 Get Api Initiated
+INFO  10:18:17 Customer details is finally recieved.
+INFO  10:18:32 Customer details has been successfully recieved.
+INFO  10:18:32 Customer details  has been successfully retrieved
+INFO  10:18:32 Customer's Details has been successfully returned
+INFO  01:06:43 Get Api Initiated
+INFO  01:06:43 Customer details is finally recieved.
+INFO  01:14:32 Get Api Initiated
+INFO  01:14:32 Customer details is finally recieved.
+INFO  03:41:26 Get Api Initiated
+INFO  03:41:26 Customer details is finally recieved.
+INFO  03:42:56 Get Api Initiated
+INFO  03:42:56 Customer details is finally recieved.
+INFO  03:47:46 Get Api Initiated
+INFO  03:47:46 Customer details is finally recieved.
+INFO  03:48:51 Get Api Initiated
+INFO  03:48:51 Customer details is finally recieved.
+INFO  03:50:51 Application is shutting down...
+INFO  03:50:51 Application is shutting down...
+INFO  03:51:15 Now listening on: https://localhost:5002
+INFO  03:51:15 Now listening on: https://localhost:5002
+INFO  03:51:15 Now listening on: http://localhost:5003
+INFO  03:51:15 Now listening on: http://localhost:5003
+INFO  03:51:15 Application started. Press Ctrl+C to shut down.
+INFO  03:51:15 Application started. Press Ctrl+C to shut down.
+INFO  03:51:15 Hosting environment: Development
+INFO  03:51:15 Hosting environment: Development
+INFO  03:51:15 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  03:51:15 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+ERROR 03:51:23 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:51:23 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:51:35 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:51:35 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:52:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:52:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:52:24 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:52:24 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  03:53:28 Application is shutting down...
+INFO  03:53:28 Application is shutting down...
+INFO  03:53:41 Now listening on: https://localhost:5002
+INFO  03:53:41 Now listening on: https://localhost:5002
+INFO  03:53:41 Now listening on: http://localhost:5003
+INFO  03:53:41 Now listening on: http://localhost:5003
+INFO  03:53:41 Application started. Press Ctrl+C to shut down.
+INFO  03:53:41 Application started. Press Ctrl+C to shut down.
+INFO  03:53:41 Hosting environment: Development
+INFO  03:53:41 Hosting environment: Development
+INFO  03:53:41 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  03:53:41 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+ERROR 03:53:46 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:53:46 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:53:48 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:53:48 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:53:48 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:53:48 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:53:48 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:53:48 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:53:48 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:53:48 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint MFPE_CustomerApi.Controllers.CustomerController.Get (MFPE_CustomerApi) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  03:55:59 Application is shutting down...
+INFO  03:55:59 Application is shutting down...
+INFO  03:56:19 Now listening on: https://localhost:5002
+INFO  03:56:19 Now listening on: https://localhost:5002
+INFO  03:56:19 Now listening on: http://localhost:5003
+INFO  03:56:19 Now listening on: http://localhost:5003
+INFO  03:56:19 Application started. Press Ctrl+C to shut down.
+INFO  03:56:19 Application started. Press Ctrl+C to shut down.
+INFO  03:56:19 Hosting environment: Development
+INFO  03:56:19 Hosting environment: Development
+INFO  03:56:19 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  03:56:19 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  03:56:31 Get Api Initiated
+INFO  03:56:31 Customer details is finally recieved.
+INFO  03:56:42 Get Api Initiated
+INFO  03:56:42 Customer details is finally recieved.
+INFO  03:57:16 Get Api Initiated
+INFO  03:57:16 Customer details is finally recieved.
+INFO  03:57:22 Get Api Initiated
+INFO  03:57:22 Customer details is finally recieved.
+INFO  03:57:28 Get Api Initiated
+INFO  03:57:28 Customer details is finally recieved.
+INFO  04:00:02 Get Api Initiated
+INFO  04:00:02 Customer details is finally recieved.
+INFO  04:01:17 Get Api Initiated
+INFO  04:01:17 Customer details is finally recieved.
+INFO  04:06:15 Get Api Initiated
+INFO  04:06:15 Customer details is finally recieved.
+INFO  04:06:21 Get Api Initiated
+INFO  04:06:21 Customer details is finally recieved.
+INFO  04:07:34 Get Api Initiated
+INFO  04:07:34 Customer details is finally recieved.
+INFO  04:08:29 Get Api Initiated
+INFO  04:08:29 Customer details is finally recieved.
+INFO  04:09:58 Get Api Initiated
+INFO  04:09:58 Customer details is finally recieved.
+INFO  04:10:23 Get Api Initiated
+INFO  04:10:23 Customer details is finally recieved.
+INFO  04:11:50 Get Api Initiated
+INFO  04:11:50 Customer details is finally recieved.
+INFO  10:14:04 Now listening on: https://localhost:5002
+INFO  10:14:04 Now listening on: https://localhost:5002
+INFO  10:14:04 Now listening on: http://localhost:5003
+INFO  10:14:04 Now listening on: http://localhost:5003
+INFO  10:14:04 Application started. Press Ctrl+C to shut down.
+INFO  10:14:04 Application started. Press Ctrl+C to shut down.
+INFO  10:14:04 Hosting environment: Development
+INFO  10:14:04 Hosting environment: Development
+INFO  10:14:04 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  10:14:04 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  10:24:20 Get Api Initiated
+INFO  10:24:20 Customer details is finally recieved.
+INFO  02:18:46 Application is shutting down...
+INFO  02:18:46 Application is shutting down...
+INFO  02:19:07 Now listening on: https://localhost:5002
+INFO  02:19:07 Now listening on: https://localhost:5002
+INFO  02:19:07 Now listening on: http://localhost:5003
+INFO  02:19:07 Now listening on: http://localhost:5003
+INFO  02:19:07 Application started. Press Ctrl+C to shut down.
+INFO  02:19:07 Application started. Press Ctrl+C to shut down.
+INFO  02:19:07 Hosting environment: Development
+INFO  02:19:07 Hosting environment: Development
+INFO  02:19:07 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  02:19:07 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  03:26:24 Customer details  has been successfully retrieved
+INFO  03:26:24 Customer details has been successfully entered.
+INFO  03:26:24 Customer Id has been successfully created
+INFO  03:26:24 Customer has been successfully created
+INFO  03:46:10 Customer details  has been successfully retrieved
+INFO  03:46:10 Customer details has been successfully entered.
+INFO  03:46:10 Customer Id has been successfully created
+INFO  03:46:10 Customer has been successfully created
+INFO  03:54:05 Application is shutting down...
+INFO  03:54:05 Application is shutting down...
+INFO  03:54:17 Now listening on: https://localhost:5002
+INFO  03:54:17 Now listening on: https://localhost:5002
+INFO  03:54:17 Now listening on: http://localhost:5003
+INFO  03:54:17 Now listening on: http://localhost:5003
+INFO  03:54:17 Application started. Press Ctrl+C to shut down.
+INFO  03:54:17 Application started. Press Ctrl+C to shut down.
+INFO  03:54:17 Hosting environment: Development
+INFO  03:54:17 Hosting environment: Development
+INFO  03:54:17 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  03:54:17 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  03:54:27 Customer details  has been successfully retrieved
+INFO  03:54:27 Customer details has been successfully entered.
+INFO  03:54:27 Customer Id has been successfully created
+INFO  03:54:27 Customer has been successfully created
+INFO  03:55:56 Customer details has been successfully recieved.
+INFO  03:55:56 Customer details  has been successfully retrieved
+INFO  03:55:56 Customer's Details has been successfully returned
+INFO  04:06:18 Customer details has been successfully recieved.
+INFO  04:06:18 Customer details  has been successfully retrieved
+INFO  04:06:18 Customer's Details has been successfully returned
+INFO  04:06:35 Customer details has been successfully recieved.
+INFO  04:06:35 Customer details  has been successfully retrieved
+INFO  04:06:35 Customer's Details has been successfully returned
+INFO  04:07:57 Customer details has been successfully recieved.
+INFO  04:07:57 Customer details  has been successfully retrieved
+INFO  04:07:57 Customer's Details has been successfully returned
+INFO  04:12:09 Get Api Initiated
+INFO  04:12:09 Customer details is finally recieved.
+INFO  04:22:40 Get Api Initiated
+INFO  04:22:40 Customer details is finally recieved.
+INFO  05:40:19 Customer details has been successfully recieved.
+INFO  05:40:19 Customer details  has been successfully retrieved
+INFO  05:40:19 Customer's Details has been successfully returned
+INFO  05:40:22 Get Api Initiated
+INFO  05:40:22 Customer details is finally recieved.
+INFO  06:27:38 Get Api Initiated
+INFO  06:27:38 Customer details is finally recieved.
+INFO  06:27:44 Customer details has been successfully recieved.
+INFO  06:27:44 Customer details  has been successfully retrieved
+INFO  06:27:44 Customer's Details has been successfully returned
+INFO  06:37:56 Customer details  has been successfully retrieved
+INFO  06:37:56 Customer details has been successfully entered.
+INFO  06:37:56 Customer Id has been successfully created
+INFO  06:37:56 Customer has been successfully created
+INFO  06:48:10 Application is shutting down...
+INFO  06:48:10 Application is shutting down...
+INFO  06:48:28 Now listening on: https://localhost:5002
+INFO  06:48:28 Now listening on: https://localhost:5002
+INFO  06:48:28 Now listening on: http://localhost:5003
+INFO  06:48:28 Now listening on: http://localhost:5003
+INFO  06:48:28 Application started. Press Ctrl+C to shut down.
+INFO  06:48:28 Application started. Press Ctrl+C to shut down.
+INFO  06:48:28 Hosting environment: Development
+INFO  06:48:28 Hosting environment: Development
+INFO  06:48:28 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  06:48:28 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+ERROR 06:50:33 Error occurred while calling post methodThe best overloaded method match for 'MFPE_CustomerApi.Provider.IProvider<MFPE_CustomerApi.Models.Customer>.Add(MFPE_CustomerApi.Models.Customer)' has some invalid arguments
+INFO  06:57:41 Application is shutting down...
+INFO  06:57:41 Application is shutting down...
+INFO  07:44:50 Now listening on: https://localhost:5002
+INFO  07:44:50 Now listening on: https://localhost:5002
+INFO  07:44:50 Now listening on: http://localhost:5003
+INFO  07:44:50 Now listening on: http://localhost:5003
+INFO  07:44:50 Application started. Press Ctrl+C to shut down.
+INFO  07:44:50 Application started. Press Ctrl+C to shut down.
+INFO  07:44:50 Hosting environment: Development
+INFO  07:44:50 Hosting environment: Development
+INFO  07:44:50 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  07:44:50 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  07:45:21 Customer details  has been successfully retrieved
+INFO  07:45:21 Customer details has been successfully entered.
+INFO  07:45:21 Customer Id has been successfully created
+INFO  07:45:21 Customer has been successfully created
+WARN  07:45:34 User has sent some invalid CustomerId
+INFO  07:45:53 Customer details  has been successfully retrieved
+INFO  07:45:53 Customer details has been successfully entered.
+INFO  07:45:53 Customer Id has been successfully created
+INFO  07:45:53 Customer has been successfully created
+INFO  07:46:01 Customer details has been successfully recieved.
+INFO  07:46:01 Customer details  has been successfully retrieved
+INFO  07:46:01 Customer's Details has been successfully returned
+INFO  07:47:33 Customer details has been successfully recieved.
+INFO  07:47:33 Customer details  has been successfully retrieved
+ERROR 07:47:33 No record found for the user Id :45
+INFO  07:48:25 Customer details has been successfully recieved.
+INFO  07:48:25 Customer details  has been successfully retrieved
+ERROR 07:48:25 No record found for the user Id :45
+INFO  07:50:19 Customer details  has been successfully retrieved
+INFO  07:50:19 Customer details has been successfully entered.
+INFO  07:50:19 Customer Id has been successfully created
+INFO  07:50:19 Customer has been successfully created
+INFO  07:53:13 Application is shutting down...
+INFO  07:53:13 Application is shutting down...
+INFO  07:53:23 Now listening on: https://localhost:5002
+INFO  07:53:23 Now listening on: https://localhost:5002
+INFO  07:53:23 Now listening on: http://localhost:5003
+INFO  07:53:23 Now listening on: http://localhost:5003
+INFO  07:53:23 Application started. Press Ctrl+C to shut down.
+INFO  07:53:23 Application started. Press Ctrl+C to shut down.
+INFO  07:53:23 Hosting environment: Development
+INFO  07:53:23 Hosting environment: Development
+INFO  07:53:23 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  07:53:23 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  07:57:35 Customer details has been successfully recieved.
+INFO  07:57:35 Customer details  has been successfully retrieved
+ERROR 07:57:35 No record found for the user Id :50
+INFO  07:58:20 Customer details has been successfully recieved.
+INFO  07:58:20 Customer details  has been successfully retrieved
+ERROR 07:58:20 No record found for the user Id :50
+INFO  07:58:52 Customer details has been successfully recieved.
+INFO  07:58:52 Customer details  has been successfully retrieved
+ERROR 07:58:52 No record found for the user Id :50
+INFO  07:58:57 Customer details  has been successfully retrieved
+INFO  07:58:57 Customer details has been successfully entered.
+INFO  07:58:57 Customer Id has been successfully created
+INFO  07:58:57 Customer has been successfully created
+INFO  07:59:01 Customer details has been successfully recieved.
+INFO  07:59:01 Customer details  has been successfully retrieved
+INFO  07:59:01 Customer's Details has been successfully returned
+INFO  09:44:22 Now listening on: https://localhost:5002
+INFO  09:44:22 Now listening on: https://localhost:5002
+INFO  09:44:22 Now listening on: http://localhost:5003
+INFO  09:44:22 Now listening on: http://localhost:5003
+INFO  09:44:22 Application started. Press Ctrl+C to shut down.
+INFO  09:44:22 Application started. Press Ctrl+C to shut down.
+INFO  09:44:22 Hosting environment: Development
+INFO  09:44:22 Hosting environment: Development
+INFO  09:44:22 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  09:44:22 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  09:47:06 Customer details has been successfully recieved.
+INFO  09:47:06 Customer details  has been successfully retrieved
+INFO  09:47:06 Customer's Details has been successfully returned
+INFO  09:49:25 Customer details  has been successfully retrieved
+INFO  09:49:25 Customer details has been successfully entered.
+INFO  09:49:25 Customer Id has been successfully created
+INFO  09:49:27 Customer has been successfully created
+INFO  11:13:48 Customer details  has been successfully retrieved
+WARN  11:13:48 User already exist with Id :1
+INFO  11:19:28 Application is shutting down...
+INFO  11:19:28 Application is shutting down...
+INFO  11:24:30 Now listening on: https://localhost:5002
+INFO  11:24:30 Now listening on: https://localhost:5002
+INFO  11:24:30 Now listening on: http://localhost:5003
+INFO  11:24:30 Now listening on: http://localhost:5003
+INFO  11:24:30 Application started. Press Ctrl+C to shut down.
+INFO  11:24:30 Application started. Press Ctrl+C to shut down.
+INFO  11:24:30 Hosting environment: Development
+INFO  11:24:30 Hosting environment: Development
+INFO  11:24:30 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  11:24:30 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  11:24:44 Customer details  has been successfully retrieved
+INFO  11:24:44 Customer details has been successfully entered.
+INFO  11:24:44 Customer Id has been successfully created
+INFO  11:24:45 Customer has been successfully created
+INFO  11:24:55 Customer details  has been successfully retrieved
+INFO  11:24:55 Customer details has been successfully entered.
+INFO  11:24:55 Customer Id has been successfully created
+INFO  11:24:55 Customer has been successfully created
+INFO  11:26:49 Customer details  has been successfully retrieved
+INFO  11:26:49 Customer details has been successfully entered.
+INFO  11:26:49 Customer Id has been successfully created
+INFO  11:26:49 Customer has been successfully created
+INFO  11:28:01 Customer details  has been successfully retrieved
+WARN  11:28:01 User already exist with Id :1
+INFO  11:28:20 Customer details  has been successfully retrieved
+INFO  11:28:20 Customer details has been successfully entered.
+INFO  11:28:20 Customer Id has been successfully created
+INFO  11:28:20 Customer has been successfully created
+INFO  11:35:03 Now listening on: https://localhost:5002
+INFO  11:35:03 Now listening on: https://localhost:5002
+INFO  11:35:03 Now listening on: http://localhost:5003
+INFO  11:35:03 Now listening on: http://localhost:5003
+INFO  11:35:03 Application started. Press Ctrl+C to shut down.
+INFO  11:35:03 Application started. Press Ctrl+C to shut down.
+INFO  11:35:03 Hosting environment: Development
+INFO  11:35:03 Hosting environment: Development
+INFO  11:35:03 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  11:35:03 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  05:48:05 Customer details has been successfully recieved.
+INFO  05:48:05 Customer details  has been successfully retrieved
+INFO  05:48:05 Customer's Details has been successfully returned
+INFO  08:06:12 Now listening on: https://localhost:5002
+INFO  08:06:12 Now listening on: https://localhost:5002
+INFO  08:06:12 Now listening on: http://localhost:5003
+INFO  08:06:12 Now listening on: http://localhost:5003
+INFO  08:06:12 Application started. Press Ctrl+C to shut down.
+INFO  08:06:12 Application started. Press Ctrl+C to shut down.
+INFO  08:06:12 Hosting environment: Development
+INFO  08:06:12 Hosting environment: Development
+INFO  08:06:12 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  08:06:12 Content root path: C:\Users\ASUS\Downloads\Retail_Banking_System_MFPE-master\Retail_Banking_System_MFPE-master\Retail Banking System\Customer API\MFPE_CustomerApi
+INFO  01:03:41 Customer details  has been successfully retrieved
+INFO  01:03:41 Customer details has been successfully entered.
+INFO  01:03:41 Customer Id has been successfully created
+INFO  01:03:43 Customer has been successfully created
+INFO  03:19:13 Customer details  has been successfully retrieved
+WARN  03:19:13 User already exist with Id :1
+INFO  03:19:51 Customer details  has been successfully retrieved
+INFO  03:19:51 Customer details has been successfully entered.
+INFO  03:19:51 Customer Id has been successfully created
+INFO  03:19:51 Customer has been successfully created
+INFO  03:20:44 Customer details has been successfully recieved.
+INFO  03:20:44 Customer details  has been successfully retrieved
+INFO  03:20:44 Customer's Details has been successfully returned
+INFO  03:21:05 Customer details has been successfully recieved.
+INFO  03:21:05 Customer details  has been successfully retrieved
+INFO  03:21:05 Customer's Details has been successfully returned
+INFO  03:21:23 Get Api Initiated
+INFO  03:21:23 Customer details is finally recieved.
+INFO  03:21:50 Get Api Initiated
+INFO  03:21:50 Customer details is finally recieved.
+INFO  03:21:56 Get Api Initiated
+INFO  03:21:56 Customer details is finally recieved.
+INFO  04:38:38 Customer details  has been successfully retrieved
+INFO  04:38:38 Customer details has been successfully entered.
+INFO  04:38:38 Customer Id has been successfully created
+INFO  04:38:38 Customer has been successfully created
+INFO  04:38:52 Customer details has been successfully recieved.
+INFO  04:38:52 Customer details  has been successfully retrieved
+INFO  04:38:52 Customer's Details has been successfully returned
+INFO  04:39:40 Customer details has been successfully recieved.
+INFO  04:39:40 Customer details  has been successfully retrieved
+INFO  04:39:40 Customer's Details has been successfully returned
+INFO  04:53:11 Customer details has been successfully recieved.
+INFO  04:53:11 Customer details  has been successfully retrieved
+INFO  04:53:11 Customer's Details has been successfully returned
+INFO  04:58:30 Get Api Initiated
+INFO  04:58:30 Customer details is finally recieved.
